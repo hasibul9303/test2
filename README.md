@@ -8,9 +8,13 @@
 Hello Everyone!!:wave:
 This is a demo repository which has been created as an initiative to make my friends understand GitHub.
 
-Thanks for the awesome responses in the [Demo Repository(test)](https://github.com/starhasibul/test)
+Thanks for the awesome responses in the [Demo Repository(test)](https://github.com/starhasibul/test).
 We are on Day 2 of this initiative and today you all need to upload a C Program here.
 
 ## Rules for Uploading:--
-Give the name of the file as yourname.c . For example, Hasibul.c
-On the first line of the program mention the name of program using comment lines.
+- Give the name of the file as yourname.c . For example, Hasibul.c
+- On the first line of the program mention the name of program using comment.
+
+
+
+
