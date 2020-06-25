@@ -31,7 +31,7 @@ You will now see a **Pull Request** button in the repository.
 Click it. Add a appropriate message and send a Pull Request
 
 ### Now you have successfully contributed in this repository!!
-I will verify your changes and will **Merge** it in my repository soon.
+I will verify your commits and will **Merge** it in my repository soon.
 You will also receive a notification email after I merge your Pull Request.
 
 ##### Once again Thank You everyone for supporting us in this initiative!! :sparkling_heart:
