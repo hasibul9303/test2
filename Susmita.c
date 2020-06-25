@@ -1,3 +1,4 @@
+// A C program for binary search in an array//
 #include<stdio.h>
 int main()
 {
