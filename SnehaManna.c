@@ -1,4 +1,5 @@
-////Palindrome//////
+//Palindrome
+
 #include<stdio.h>
 int main()
 {
