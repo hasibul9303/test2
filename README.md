@@ -8,8 +8,8 @@
 Hello Everyone!!:wave:
 This is a demo repository which has been created as an initiative to make my friends understand GitHub.
 
-Thanks for the awesome responses in the [Demo Repository(test)](https://github.com/starhasibul/test) on Day 1.
-We are on Day 2 of this initiative and today you all need to upload a C Program here(not a Hello World Program:joy:)
+Thanks for the awesome responses in the [Demo Repository(test)](https://github.com/starhasibul/test) on Day 2.
+We are on Day 3 of this initiative and today you all need to upload a C Program here(not a Hello World Program:joy:)
 
 ## Don't know how to upload??
 Don't worry we will get you covered. Thanks to [Snehashis](https://github.com/snehashis365) for making an awesome video covering the basics of GitHub. Do watch the video [here](https://www.youtube.com/watch?v=Cj_9mkyOdhY).
@@ -38,7 +38,7 @@ You will also receive a notification email after I merge your Pull Request.
 
 ##### Speical Thanks to [Snehashis](https://github.com/snehashis365) for jointly starting this initiative with me.
 
-###### Check this section on Day 3 to proceed further.
+###### Check this section on Day 4 to proceed further.
 
 *Created and Maintained with :heart: by [Hasibul](https://twitter.com/starhasibul)*
 
