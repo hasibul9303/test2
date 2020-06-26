@@ -38,7 +38,8 @@ You will also receive a notification email after I merge your Pull Request.
 
 ##### Speical Thanks to [Snehashis](https://github.com/snehashis365) for jointly starting this initiative with me.
 
-###### Check this section on Day 4 to proceed further.
+##### Welcome to Day 4 of this initiative:--
+Today we will learn about Pull Requests. There is a video for you about this. Do watch it [here](https://https://youtu.be/OaPkjVuIpsM)
 
 *Created and Maintained with :heart: by [Hasibul](https://twitter.com/starhasibul)*
 
