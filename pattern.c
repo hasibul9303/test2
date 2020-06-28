@@ -1,5 +1,5 @@
 /**
- * C program to print heart star pattern 
+ * C program to print heart star pattern
  */
 
 #include <stdio.h>
